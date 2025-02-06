@@ -1,2 +1,3 @@
 Data collection: In order to collect the data needed to train the sentiment analysis model, I used Python's Tweepy library to crawl 50k+ posts containing text and images from Reddit to train a classification system that can recognize text and image sentiment.
+
 Model implementation: Faced with pictures containing text information on the Internet, build a model that can classify images and text sentiment. Combine BERT and VGG19 to extract features and fuse them for classification. The model has an accuracy rate of 84% and can be widely used in social media, advertising content analysis and other fields.
